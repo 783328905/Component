@@ -1,0 +1,5 @@
+com\briup\base\ApiTest.class
+com\briup\mr\RowCounter$RCReducer.class
+com\briup\mr\RowCounter.class
+optTable\HBaseTest.class
+com\briup\mr\RowCounter$RCMapper.class

@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ECJTU_Hadoop_Ecosphere:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="893ebf27-e137-4972-a48d-6394e5ef913a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/Flume/target/" />
+    <ignored path="$PROJECT_DIR$/HBase/target/" />
+    <ignored path="$PROJECT_DIR$/Hive/target/" />
+    <ignored path="$PROJECT_DIR$/HBase126/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ECJTU_Hadoop_Ecosphere" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HBaseTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HBase/src/main/java/optTable/HBaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HiveJDBCTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hive/src/main/java/com/briup/HiveJDBCTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindAllKeyWord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/FindAllKeyWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="44" column="26" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetArea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hive/src/main/java/com/briup/GetArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HBase126/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="57" column="34" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HBase/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1300">
+              <caret line="65" selection-start-line="60" selection-start-column="5" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HBase/src/main/java/com/briup/base/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RowCounter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HBase/src/main/java/com/briup/mr/RowCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="67" column="42" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApiTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HBase/src/main/java/com/briup/base/ApiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1820">
+              <caret line="103" column="78" selection-start-line="103" selection-start-column="78" selection-end-line="103" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://bbs.aliyun.com/simple/</find>
+      <find>http://bbs.aliyun.com/</find>
+      <find>7</find>
+      <find>https</find>
+      <find>key</find>
+      <find>https://edu.aliyun.com/course/522ion/CLDACP01/yq.aliyun.com/promotion/259t/images/netboot/ubuntu-installer/amd64/linux</find>
+      <find>https://edu.aliyun.com/certification/CLDACP01/yq.aliyun.com/promotion/259t/images/netboot/ubuntu-installer/amd64/linux</find>
+      <find>read/572064.html</find>
+      <find>https://bbs.aliyun.com/simple/f409.html</find>
+      <find>https://yq.aliyun.com/publication/journal/read/669</find>
+      <find>https://yq.aliyun.com/publication/journal/read/670</find>
+      <find>https://yq.aliyun.com/publication/journal/read/667</find>
+      <find>http://bbs.aliyun.com/read/206104.html</find>
+      <find>http://bbs.aliyun.com/read/207931.html</find>
+      <find>scanTable</find>
+      <find>de</find>
+      <find>create</find>
+      <find>createT</find>
+      <find>netboot/ubuntu-installer/amd64/linux</find>
+      <find>http://bbs.aliyun.com/read/136177.htmlmlmiddle/53/14279857060_e0f46908rent/images/netboot/ubuntu-installer/amd64/linux</find>
+      <find>/netboot/ubuntu-installer/amd64/linux</find>
+      <find>https://yq.aliyun.com/researchion/6tmll</find>
+      <find>toString</find>
+      <find>del</find>
+      <find>https://bbs.aliyun.com/thread/239.html</find>
+      <find>ubuntu-installer/amd64/linux</find>
+      <find>flag:1</find>
+      <find>f2</find>
+      <find>flag:0</find>
+      <find>call1:15947003410</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/file-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/new-star-blog" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Boot" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/x1hn1k/new-star-blog" value="PREVIEW" />
+        <entry key="D:/BaiduNetdiskDownload/02、Spring Boot个人博客网站企业前后端/project/x1hn1k/hello-world" value="PREVIEW" />
+        <entry key="D:/BaiduNetdiskDownload/02、Spring Boot个人博客网站企业前后端/project/x1hn1k/new-star-blog" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/ZKConnection.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/common/ConnectionWatcher.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/CreateTest.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/OptionNote.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/Watcher.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/SimpleClient.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/OptionNode.java" />
+        <option value="$PROJECT_DIR$/Flume/pom.xml" />
+        <option value="$PROJECT_DIR$/HBase/src/main/java/com/briup/base/ApiTest.java" />
+        <option value="$PROJECT_DIR$/HBase/src/main/java/optTable/stu.java" />
+        <option value="$PROJECT_DIR$/HBase/src/main/java/com/briup/base/GetArea.java" />
+        <option value="$PROJECT_DIR$/Hive/src/main/java/com/briup/GetArea.java" />
+        <option value="$PROJECT_DIR$/HBase/pom.xml" />
+        <option value="$PROJECT_DIR$/Hive/pom.xml" />
+        <option value="$PROJECT_DIR$/Hive/src/main/java/com/briup/HiveJDBCTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/HBase/src/main/java/com/briup/base/Test.java" />
+        <option value="$PROJECT_DIR$/HBase/src/main/java/com/briup/mr/RowCounter.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetData.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/WriteOutlink.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetResultPageRanl.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/AddTag.java" />
+        <option value="$PROJECT_DIR$/HBase126/pom.xml" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/FindAllKeyWord.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/test/java/TestCase.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/test/java/TestString.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/Join.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetResultPageRank.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetResultRanK.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/PageRank.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetResultRank.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/WriteOutLink.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/PageRankFromData.java" />
+        <option value="$PROJECT_DIR$/HBase126/src/main/java/search_engine/CreateNameSpace.java" />
+        <option value="$PROJECT_DIR$/HBase/src/main/java/optTable/HBaseTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HBase126" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="HBase126" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="995" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="HBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="HBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="HBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="HBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="HBase126" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="HBase126" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="HBase126" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_144/bin/jvisualvm.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelJProject\ECJTU_Hadoop_Ecosphere\HBase126\src\main\resources" />
+      <recent name="D:\IntelJProject\ECJTU_Hadoop_Ecosphere\Hive\src\main\resources" />
+      <recent name="D:\IntelJProject\ECJTU_Hadoop_Ecosphere\HBase\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HBaseTest.scanTable">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CreateNameSpace.delTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HBase126" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search_engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="search_engine" />
+      <option name="MAIN_CLASS_NAME" value="search_engine.CreateNameSpace" />
+      <option name="METHOD_NAME" value="delTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateNameSpace.scanTable1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HBase126" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search_engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="search_engine" />
+      <option name="MAIN_CLASS_NAME" value="search_engine.CreateNameSpace" />
+      <option name="METHOD_NAME" value="scanTable1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateNameSpace.testPut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HBase126" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search_engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="search_engine" />
+      <option name="MAIN_CLASS_NAME" value="search_engine.CreateNameSpace" />
+      <option name="METHOD_NAME" value="testPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="HBaseTest.scanTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="optTable" />
+      <option name="MAIN_CLASS_NAME" value="optTable.HBaseTest" />
+      <option name="METHOD_NAME" value="scanTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="HBaseTest.testCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="optTable" />
+      <option name="MAIN_CLASS_NAME" value="optTable.HBaseTest" />
+      <option name="METHOD_NAME" value="testCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CreateNameSpace.scanTable1" />
+      <item itemvalue="JUnit.CreateNameSpace.delTable" />
+      <item itemvalue="JUnit.CreateNameSpace.testPut" />
+      <item itemvalue="JUnit.HBaseTest.scanTable" />
+      <item itemvalue="JUnit.HBaseTest.testCreate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HBaseTest.scanTable" />
+        <item itemvalue="JUnit.CreateNameSpace.scanTable1" />
+        <item itemvalue="JUnit.HBaseTest.testCreate" />
+        <item itemvalue="JUnit.CreateNameSpace.delTable" />
+        <item itemvalue="JUnit.CreateNameSpace.testPut" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\CAIPING\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="893ebf27-e137-4972-a48d-6394e5ef913a" name="Default" comment="" />
+      <created>1561427695179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561427695179</updated>
+      <workItem from="1561427696668" duration="7470000" />
+      <workItem from="1561464255845" duration="2211000" />
+      <workItem from="1561511499905" duration="9952000" />
+      <workItem from="1561535360352" duration="808000" />
+      <workItem from="1561598723618" duration="636000" />
+      <workItem from="1561687730762" duration="725000" />
+      <workItem from="1561961817134" duration="771000" />
+      <workItem from="1561963563331" duration="2540000" />
+      <workItem from="1561970248319" duration="321000" />
+      <workItem from="1561972053712" duration="1351000" />
+      <workItem from="1561996868976" duration="1180000" />
+      <workItem from="1562039305600" duration="1210000" />
+      <workItem from="1562058724353" duration="4923000" />
+      <workItem from="1562116554433" duration="2552000" />
+      <workItem from="1562123278386" duration="14508000" />
+      <workItem from="1562202531654" duration="7634000" />
+      <workItem from="1562227069574" duration="1933000" />
+      <workItem from="1562243150463" duration="1547000" />
+      <workItem from="1562250834951" duration="149000" />
+      <workItem from="1562251281810" duration="686000" />
+      <workItem from="1562288753732" duration="14759000" />
+      <workItem from="1562316122925" duration="1212000" />
+      <workItem from="1562390287926" duration="687000" />
+      <workItem from="1562518600583" duration="1209000" />
+      <workItem from="1562548057952" duration="6501000" />
+      <workItem from="1562634563720" duration="1697000" />
+      <workItem from="1562671380749" duration="622000" />
+      <workItem from="1562729463806" duration="3508000" />
+      <workItem from="1562810313596" duration="355000" />
+      <workItem from="1562810719616" duration="1915000" />
+      <workItem from="1562812646430" duration="3975000" />
+      <workItem from="1562827067760" duration="8074000" />
+      <workItem from="1562844887420" duration="195000" />
+      <workItem from="1562845090021" duration="1810000" />
+      <workItem from="1562894140905" duration="2158000" />
+      <workItem from="1562992286858" duration="625000" />
+      <workItem from="1563152879336" duration="22677000" />
+      <workItem from="1563239559984" duration="30499000" />
+      <workItem from="1563292275064" duration="2000" />
+      <workItem from="1563325716730" duration="30896000" />
+      <workItem from="1563411853953" duration="18661000" />
+      <workItem from="1563433111584" duration="32000" />
+      <workItem from="1563433183453" duration="2119000" />
+      <workItem from="1563435354279" duration="95000" />
+      <workItem from="1563460689760" duration="1316000" />
+      <workItem from="1563757557789" duration="625000" />
+      <workItem from="1563814436887" duration="656000" />
+      <workItem from="1563863251272" duration="77000" />
+      <workItem from="1563867405696" duration="2352000" />
+      <workItem from="1563979447527" duration="533000" />
+      <workItem from="1564035912435" duration="46000" />
+      <workItem from="1564125489845" duration="4560000" />
+      <workItem from="1564130216440" duration="4506000" />
+      <workItem from="1564460969911" duration="3000" />
+      <workItem from="1564470009177" duration="767000" />
+      <workItem from="1564484525250" duration="510000" />
+      <workItem from="1564485208689" duration="883000" />
+      <workItem from="1564489748894" duration="285000" />
+      <workItem from="1564539314997" duration="14000" />
+      <workItem from="1564555681966" duration="219000" />
+      <workItem from="1565849914374" duration="10000" />
+      <workItem from="1565883420905" duration="616000" />
+      <workItem from="1566281555674" duration="857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 16h 15m 19s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 16h 37m 12s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 16h 42m 19s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 17h 02m 01s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 17h 04m 14s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 17h 11m 32s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 17h 12m 28s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 17h 27m 22s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.26 at 18h 28m 13s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HBaseTest_scanTable - 2019.07.30 at 15h 09m 18s.xml">
+      <configuration name="HBaseTest.scanTable" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="236225000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51005363" side_tool="true" weight="0.6920904" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.060321715" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
+      <window_info id="Structure" order="1" sideWeight="0.24084778" side_tool="true" weight="0.32908848" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.58898306" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.32909605" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.32909605" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4899464" weight="0.259887" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49932975" weight="0.32909605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75915223" visible="true" weight="0.32573727" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="4" weight="0.3297587" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
+      <window_info id="Alibaba Cloud Explorer" order="2" weight="0.18297587" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010526" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49396783" weight="0.2457627" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="4" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49128687" visible="true" weight="0.21186441" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5010526" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49932975" weight="0.32909605" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5087131" side_tool="true" weight="0.58898306" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49798927" weight="0.2457627" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="9" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info id="Alibaba Cloud Explorer" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.122654155" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="13" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75915223" visible="true" weight="0.24061662" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" sideWeight="0.24084778" side_tool="true" weight="0.32908848" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5451977" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/2.2.0/hbase-client-2.2.0.jar!/org/apache/hadoop/hbase/client/Result.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase/src/main/java/optTable/stu.java" />
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/hive/hive-jdbc/2.3.5/hive-jdbc-2.3.5.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hive/hive-jdbc/2.3.5/hive-jdbc-2.3.5.jar!/org/apache/hive/jdbc/HiveDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hive/hive-jdbc/2.2.0/hive-jdbc-2.2.0.jar!/org/apache/hive/jdbc/HiveDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="663" selection-start-line="663" selection-end-line="663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hive/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/CookieStore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hive/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-mapreduce/2.2.0/hbase-mapreduce-2.2.0.jar!/org/apache/hadoop/hbase/mapreduce/TableMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.4/hbase-client-1.2.4.jar!/org/apache/hadoop/hbase/client/Scan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5410">
+          <caret line="362" column="16" selection-start-line="362" selection-start-column="16" selection-end-line="362" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-407">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/2.1.0/hbase-client-2.1.0.jar!/org/apache/hadoop/hbase/filter/SingleColumnValueFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/2.2.0/hbase-common-2.2.0.jar!/org/apache/hadoop/hbase/util/CollectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/2.1.0/hbase-client-2.1.0.jar!/org/apache/hadoop/hbase/client/Result.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="341" column="40" selection-start-line="341" selection-start-column="40" selection-end-line="341" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/2.1.0/hbase-client-2.1.0.jar!/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="184" column="50" selection-start-line="184" selection-start-column="50" selection-end-line="184" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.2.6/hbase-common-1.2.6.jar!/org/apache/hadoop/hbase/util/Bytes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="363" column="22" selection-start-line="363" selection-start-column="22" selection-end-line="363" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.4/hbase-client-1.2.4.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="552" column="13" lean-forward="true" selection-start-line="552" selection-start-column="13" selection-end-line="552" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.4/hbase-client-1.2.4.jar!/org/apache/hadoop/hbase/client/Admin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.4/hbase-client-1.2.4.jar!/org/apache/hadoop/hbase/client/ResultScanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/AddTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/3.0.3/hadoop-common-3.0.3.jar!/org/apache/hadoop/io/AbstractMapWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/3.0.3/hadoop-common-3.0.3.jar!/org/apache/hadoop/io/MapWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.2.6/hbase-common-1.2.6.jar!/org/apache/hadoop/hbase/io/ImmutableBytesWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/test/java/TestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/test/java/TestString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="2885" column="18" selection-start-line="2885" selection-start-column="18" selection-end-line="2885" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/Join.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="92" column="70" lean-forward="true" selection-start-line="92" selection-start-column="70" selection-end-line="92" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetResultRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetResultPageRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/PageRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="64" column="53" selection-start-line="64" selection-start-column="53" selection-end-line="64" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/PageRankFromData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="82" column="46" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/WriteOutLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="78" column="108" selection-start-line="78" selection-start-column="108" selection-end-line="78" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/slider/slider-core/0.90.2-incubating/slider-core-0.90.2-incubating.jar!/org/apache/slider/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/CreateNameSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3280">
+          <caret line="178" column="109" selection-start-line="178" selection-start-column="15" selection-end-line="178" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase/src/main/java/com/briup/base/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="103" column="78" selection-start-line="103" selection-start-column="78" selection-end-line="103" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="57" column="34" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="65" selection-start-line="60" selection-start-column="5" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase/src/main/java/com/briup/base/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hive/src/main/java/com/briup/GetArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hive/src/main/java/com/briup/HiveJDBCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase126/src/main/java/search_engine/FindAllKeyWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase/src/main/java/com/briup/mr/RowCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="67" column="42" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBase/src/main/java/optTable/HBaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ECJTU_Hadoop_Ecosphere:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HBase126</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: io.netty:netty:3.10.5.Final</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
